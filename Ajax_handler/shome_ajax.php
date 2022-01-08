@@ -18,7 +18,6 @@
 
         $rv = array("status"=>$status);
         echo json_encode($rv);
-
         exit;
     }
 
